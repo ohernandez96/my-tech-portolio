@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Tonya A. Melvin-Bryant', // Title for your website.
+    title: 'Oswaldo Hernandez', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist.',
     profilePhoto: 'img/profile.png',
     url: 'https://tamelvinbryant.github.io', // Your website URL
